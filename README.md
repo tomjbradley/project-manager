@@ -1,0 +1,2 @@
+# Project Manager
+Project Manager is an open source, self-hosted productivity tools designed for freelance developers and software agencies who want to streamline client communications an project manager. It achieves this by automating tasks where possible and unifying everything about your project in one easy to use interface that makes life easier for you and your clients.
